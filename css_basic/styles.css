@@ -28,6 +28,11 @@ header {
 
 a{
     color: #131950;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+  color: red;
 }
 
 footer {
@@ -50,6 +55,7 @@ h3 {
 h2,
 p {
   color: #ff0000;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 body {
   background-color: #f2f2f2; 
