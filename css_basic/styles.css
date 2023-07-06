@@ -49,37 +49,7 @@ h3 {
 
 h2,
 p {
-  color: #131950;
+  color: #ff0000;
 }
-
-table {
-  border-collapse: collapse;
-  width: 60%;
-  margin: auto;
-  color: #131950;
-}
-
-table th {
-  color: #ffffff;
-}
-
-table th,
-table td {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: center;
-}
-
-table tr:hover {
-  background-color: #f8e9e8;
-}
-
-table th {
-  padding: 12px 15px;
-  background-color: #131950;
-}
-
-img{
-    display: block;
-    margin: 0 auto 30px;
-}
+body {
+  background-color: #f2f2f2; 
